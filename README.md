@@ -37,11 +37,8 @@ Considere o cadastro com dados básicos:
 </p>
 
 <p align="center">
-<img width="600" src="public/assets/images/db1.JPG">
-</p>
-
-<p align="center">
-<img width="600" src="public/assets/images/db2.JPG">
+<img width="300" src="public/assets/images/db1.JPG">
+<img width="300" src="public/assets/images/db2.JPG">
 </p>
 
 <p align="center">
