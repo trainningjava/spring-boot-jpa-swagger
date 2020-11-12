@@ -32,8 +32,8 @@ Considere o cadastro com dados básicos:
 
 ## :iphone: Telas
 
-<img width="300" src="public/assets/images/Tela1.JPG">
-<img width="300" src="public/assets/images/db1.JPG"><img width="300" src="public/assets/images/db2.JPG">
-<img width="300" src="public/assets/images/swagger1.JPG"><img width="300" src="public/assets/images/swagger2.JPG">
-<img width="300" src="public/assets/images/swagger3.JPG"><img width="300" src="public/assets/images/swagger4.JPG">
-<img width="300" src="public/assets/images/swagger5.JPG">
+<img width="300" src="public/assets/images/Tela1.JPG" />
+<img width="300" src="public/assets/images/db1.JPG" /><img width="300" src="public/assets/images/db2.JPG" />
+<img width="300" src="public/assets/images/swagger1.JPG" /><img width="300" src="public/assets/images/swagger2.JPG" />
+<img width="300" src="public/assets/images/swagger3.JPG" /><img width="300" src="public/assets/images/swagger4.JPG" />
+<img width="300" src="public/assets/images/swagger5.JPG" />
