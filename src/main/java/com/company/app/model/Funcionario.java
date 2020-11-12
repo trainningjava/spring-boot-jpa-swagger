@@ -25,6 +25,7 @@ public class Funcionario {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
+    @Column(length = 50)
     private String name;
 
     private int age;
@@ -33,6 +34,7 @@ public class Funcionario {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy", locale = "pt-BR", timezone = "Brazil/East")
     private Date birthday;
 
+    @Column(length = 50)
     private String document;
 
     @ManyToOne
