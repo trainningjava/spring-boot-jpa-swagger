@@ -40,16 +40,18 @@ Considere o cadastro com dados básicos:
 <img width="400" src="public/assets/images/db1.JPG">
 <img width="400" src="public/assets/images/db2.JPG">
 </p>
-
+<br />
 <p align="center">
 <img width="400" src="public/assets/images/swagger1.JPG">
 <img width="400" src="public/assets/images/swagger2.JPG">
 </p>
+<br />
 
 <p align="center">
 <img width="400" src="public/assets/images/swagger3.JPG">
 <img width="400" src="public/assets/images/swagger4.JPG">
 </p>
+<br />
 
 <p align="center">
 <img width="400" src="public/assets/images/swagger5.JPG">
